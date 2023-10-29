@@ -1,5 +1,5 @@
 # KDI_2121400050_2023
-Kelompok 5.
+
 1.2121400071 - Moh. Bisma Saiful Islam
 2.2121400048 - Faris Wahyudi
 3.2121400114 - Moch. Sa'ed Aghil Shiroj
