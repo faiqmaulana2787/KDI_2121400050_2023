@@ -1,0 +1,21 @@
+1. Cyber security adalah praktik melindungi jaringan, perangkat, program dan data dari serangan, akses yang tidak sah atau kerusakan         digital. Ini mencakup beberapa aspek:
+  - Keamanan jaringan 
+  - Keamanan endpoint  
+  - Keamanan aplikasi 
+  - Keamanan data 
+  - Manajemen identitas dan akses
+2. Confidentiality yaitu membatasi akses terhadap informasi hanya untuk pihak yang berwenang. dan hanya boleh di akses oleh orang            mempunyai otorisasi
+Beberapa cara untuk menjaga confidentiality data dan informasi:
+  - Enkripsi 
+  - Kontrol akses 
+  - Kebijakan privasi 
+  - Penyimpanan dan transmisi data yang aman 
+  - Non-disclosure agreement
+3. Integritas adalah salah satu prinsip utama dalam cyber security yang berarti:
+  - Keutuhan 
+    Informasi harus tetap akurat dan lengkap. Data tidak boleh dimodifikasi tanpa otorisasi.
+  - Konsistensi 
+    Data seharusnya konsisten dan tidak bertentangan.
+  - Keaslian 
+    Informasi harus berasal dari sumber yang sah dan dapat diverifikasi.
+4. Availability atau ketersediaan dalam konteks keamanan siber/cybersecurity berarti bahwa sistem, jaringan, dan data harus dapat diakses    serta digunakan oleh pengguna yang berwenang setiap kali dibutuhkan.
