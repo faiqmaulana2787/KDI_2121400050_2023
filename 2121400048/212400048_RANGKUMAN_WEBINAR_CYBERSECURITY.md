@@ -1,15 +1,6 @@
-Keamanan Siber (Cybersecurity) adalah praktik yang dirancang untuk melindungi sistem komputer, jaringan, dan data dari ancaman, serangan, atau akses yang tidak sah. Ini mencakup berbagai langkah, kebijakan, dan teknologi untuk mengamankan informasi digital. Cybersecurity bertujuan untuk menjaga kerahasiaan, integritas, dan ketersediaan data, serta melindungi sistem komputer dari malware, serangan phishing, pencurian identitas, dan berbagai ancaman siber lainnya. Dengan adanya pertumbuhan teknologi digital, keamanan siber menjadi kritis untuk organisasi, pemerintah, dan individu guna mencegah potensi kerugian dan menjaga kepercayaan dalam ekosistem digital. Upaya keamanan siber melibatkan pemantauan aktif, deteksi dini, respons cepat terhadap insiden keamanan, dan penerapan kebijakan keamanan yang ketat.
-
-
-Selain itu, keamanan siber juga melibatkan perlindungan terhadap infrastruktur kritis seperti listrik, air, dan sistem transportasi yang semuanya terhubung secara digital. Serangan terhadap infrastruktur kritis dapat memiliki dampak serius pada kehidupan sehari-hari dan stabilitas masyarakat. Oleh karena itu, keamanan siber tidak hanya berkaitan dengan perlindungan data pribadi atau perusahaan, tetapi juga melibatkan perlindungan terhadap inti kehidupan sosial dan ekonomi.
-
-Upaya dalam keamanan siber terus berkembang seiring dengan evolusi ancaman siber yang semakin canggih. Ini mencakup pengembangan teknologi keamanan baru, pembaruan perangkat lunak secara teratur, dan pelatihan bagi para profesional keamanan siber. Organisasi dan pemerintah perlu bekerja sama dalam membangun keamanan siber yang kokoh, dengan berbagi informasi mengenai ancaman potensial dan bergantian memberikan dukungan. Selain itu, kesadaran tentang keamanan siber di kalangan pengguna akhir juga menjadi kunci penting, karena seringkali serangan dimulai dengan eksploitasi lemahnya praktik keamanan oleh individu.
-
-Dalam era digital ini, keberlanjutan keamanan siber menjadi tantangan yang berkelanjutan. Seiring dengan pertumbuhan teknologi, pemangku kepentingan di seluruh dunia perlu terus beradaptasi dan meningkatkan pertahanan mereka untuk menghadapi ancaman yang selalu berkembang di dunia maya.
-
-
-
-
-
-
-
+Cybersecurity melindungi aset digital dari ancaman dunia maya dengan menjaga kerahasiaan, integritas, dan ketersediaan data.
+CIA Triad: prinsip kerahasiaan, integritas, dan ketersediaan data.
+5 tahap dalam framework cybersecurity: mengidentifikasi, melindungi, mendeteksi, merespons, & memulihkan aset digital.
+Ancaman utama: perangkat lunak berbahaya, penipuan online, serangan jaringan, eksploitasi kerentanan.
+Red Team: menyerang sistem klien untuk menguji keamanan. Purple Team: mengkoordinasikan Red & Blue Team. Blue Team: bertahan dari serangan nyata.
+Security Operations Center (SOC): fasilitas tempat para profesional keamanan TI memantau dan melindungi sistem organisasi secara terus menerus. Biasanya dikelola oleh perusahaan besar.
